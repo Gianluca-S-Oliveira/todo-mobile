@@ -40,7 +40,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.heading}>Registro de Afazeres</Text>
-      <Text style={styles.title}>Adicione e veja suas atividades!</Text>
+      <Text style={styles.title}>Adicione e veja suas afazeres!</Text>
       <View style={styles.inputContainer}>
         <TextInput
           style={styles.input}
@@ -58,7 +58,7 @@ const App = () => {
       <TouchableOpacity style={styles.addButton} onPress={handleAddTask}>
         <Text style={styles.addButtonText}>Registrar Atividade</Text>
       </TouchableOpacity>
-      <Text style={{ fontSize: "40px" }}>Atividades</Text>
+      <Text style={{ fontSize: "40px" }}>Afazeres</Text>
       <FlatList
         data={tasks}
         renderItem={renderItem}
