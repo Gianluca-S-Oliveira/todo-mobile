@@ -32,7 +32,7 @@ const App = () => {
     <View style={styles.task}>
       <Text style={styles.itemList}>{item}</Text>
       <TouchableOpacity onPress={() => handleDeleteTask(index)}>
-        <Text style={styles.deleteButton}>Apagar</Text>
+        <Text style={styles.deleteButton}>Apagar Tarefa</Text>
       </TouchableOpacity>
     </View>
   );
