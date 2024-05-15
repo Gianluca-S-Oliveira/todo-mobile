@@ -1,6 +1,6 @@
-# Cadastro-Atividades-app
+# Cadastro Afazeres Mobile
 
-Olá! Aqui é a versão aplicativo da minha aplicação web: https://cadastro-esg.vercel.app/
+Olá! Aqui é a versão aplicativo da minha aplicação web: https://todo-fiap-fullstack.vercel.app/
 nessa versão app, trouxe apenas a funcionalidade de adicionar e poder apagar uma tarefa, uma forma mais simplificada do projeto web, 
 mas que não deixa a desejar!
 
